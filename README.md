@@ -1,0 +1,2 @@
+# ros_halcon_ws
+ROS与Halcon的联合使用，连接USB相机获取图像，并将ROS消息转换成halcon图像
