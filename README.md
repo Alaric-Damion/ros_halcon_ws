@@ -91,7 +91,6 @@ int main(int argc, char **argv)
 我把项目代码上传至百度网盘和github上了，有需要的小伙伴自行下载哦！
 百度网盘：链接：https://pan.baidu.com/s/15meBONPQVT_DBKqi0wcXXg 
 提取码：r1tp
-github:
 #### 三、功能包网址
 **asr_halcon_bridge**：与cv_bridge功能类似，支持halcon与ROS进行图像数据交互。
 网址：1、[http://wiki.ros.org/asr_halcon_bridge](http://wiki.ros.org/asr_halcon_bridge)；2、[https://github.com/asr-ros/asr_halcon_bridge](https://github.com/asr-ros/asr_halcon_bridge)
