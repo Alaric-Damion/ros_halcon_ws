@@ -1,6 +1,7 @@
 # ros_halcon_ws
 ROS与Halcon的联合使用，连接USB相机获取图像，并将ROS消息转换成halcon图像
-项目应该是三个功能包，因为文件太大无法上传，缺少了asr_halcon_bridge，需要下载代码来运行的小伙伴下面贴有百度网盘的链接，请自行下载！！！
+##### 项目应该是三个功能包，因为文件太大无法上传，缺少了asr_halcon_bridge，需要下载代码来运行的小伙伴下面贴有百度网盘的链接，请自行下载！！！
+##### 项目在CSDN发布了相关博客，博客中包含了更多详细内容，博客链接：[https://blog.csdn.net/m0_46991388/article/details/121822097](https://blog.csdn.net/m0_46991388/article/details/121822097)
 # ROS与Halcon联合(halcon_bridge)
 在网上搜索众多资料后，作者总结出了ROS与Halcon联合使用的方法。本篇文章将会罗列出以下几部分内容，方便读者能够复现和理解ROS与Halcon联合使用的过程。1、我的项目代码；2、功能包网址；3、参考文献地址；
 #### 一、我的项目代码
